@@ -30,7 +30,7 @@ body {
 
 .horizontal-list li {
     display: inline-block;
-    margin: 0px 32px 8px 0px;
+    margin: 0px 60px 8px 0px;
     font-weight: 600;
     font-size: 0.9rem;
 }
